@@ -1,3 +1,7 @@
+#! /bin/bash
+FIREBASEDIRPATH=$1;
+FIREBASEDIRPATH+="home_directory.json";
+
 FIREBASEPORTPATH=$1
 FIREBASEPORTPATH+="port.json";
 
